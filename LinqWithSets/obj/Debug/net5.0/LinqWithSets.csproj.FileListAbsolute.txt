@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.exe
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.deps.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\bin\Debug\net5.0\ref\LinqWithSets.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\ref\LinqWithSets.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.genruntimeconfig.cache
