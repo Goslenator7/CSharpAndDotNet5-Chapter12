@@ -19,11 +19,33 @@ namespace LinqWithObjects
                     - The names of input parameters
                     - A return value expression*/
 
-            var query = names.Where(name => name.Length > 4).OrderBy(name => name.Length);
+            var query = names.Where(name => name.Length > 4).OrderBy(name => name.Length).ThenBy(name => name);
 
             foreach (string item in query)
             {
                 Console.WriteLine(item);
+            }
+        }
+
+        static void LinqWithArrayOfExceptions()
+        {
+            var errors = new Exception[]
+            {
+                new ArgumentException(),
+                new SystemException(),
+                new InvalidOperationException(),
+                new NullReferenceException(),
+                new InvalidCastException(),
+                new OverflowException(),
+                new DivideByZeroException(),
+                new ApplicationException()
+            };
+
+            var numberErrors = errors.OfType<ArithmeticException>();
+
+            foreach (var error in numberErrors)
+            {
+                Console.WriteLine(error);
             }
         }
 
@@ -34,7 +56,8 @@ namespace LinqWithObjects
 
         static void Main(string[] args)
         {
-            LinqWithArrayOfStrings();
+            //LinqWithArrayOfStrings();
+            LinqWithArrayOfExceptions();
         }
     }
 }
