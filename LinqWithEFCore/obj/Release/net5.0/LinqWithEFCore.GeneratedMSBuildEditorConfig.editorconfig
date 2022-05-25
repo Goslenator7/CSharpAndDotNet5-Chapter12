@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = LinqWithEFCore
-build_property.ProjectDir = C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqWithEFCore\
+build_property.ProjectDir = c:\users\ryan\documents\coding\c#anddotnet5 mk2\chapter12\LinqWithEFCore\
