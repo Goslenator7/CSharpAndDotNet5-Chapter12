@@ -54,10 +54,38 @@ namespace LinqWithEFCore
             }
         }
 
+        static void GroupJoinCategoriesAndProducts()
+        {
+            using (var db = new Northwind())
+            {
+                // group all products by their category
+                var queryGroup = db.Categories.AsEnumerable().GroupJoin(
+                    inner: db.Products,
+                    outerKeySelector: category => category.CategoryID,
+                    innerKeySelector: product => product.CategoryID,
+                    resultSelector: (c, matchingProducts) => new
+                    {
+                        c.CategoryName,
+                        Products = matchingProducts.OrderBy(p => p.ProductName)
+                    });
+
+                foreach (var item in queryGroup)
+                {
+                    WriteLine($"{item.CategoryName} has {item.Products.Count()}");
+
+                    foreach (var product in item.Products)
+                    {
+                        WriteLine($" {product.ProductName}");
+                    }
+                }
+            }
+        }
+
         static void Main(string[] args)
         {
             //FilterAndSort();
-            JoinCategoriesAndProducts();
+            //JoinCategoriesAndProducts();
+            GroupJoinCategoriesAndProducts();
         }
     }
 }
