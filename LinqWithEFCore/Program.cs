@@ -81,11 +81,25 @@ namespace LinqWithEFCore
             }
         }
 
+        static void AggregateProducts()
+        {
+            using (var db = new Northwind())
+            {
+                WriteLine($"{"Product Count", -25} {db.Products.Count(), 10}");
+                WriteLine($"{"Highest product price:", -25} {db.Products.Max(p => p.UnitPrice), 10:$#,##0.00}");
+                WriteLine($"{"Sum of units in stock:", -25} {db.Products.Sum(p => p.UnitsInStock), 10:N0}");
+                WriteLine($"{"Sum of units on order:", -25} {db.Products.Sum(p => p.UnitsOnOrder), 10:N0}");
+                WriteLine($"{"Average unit price:", -25} {db.Products.Average(p => p.UnitPrice), 10:$#,##0.00}");
+                WriteLine($"{"Value of units in stock:", -25} {db.Products.AsEnumerable().Sum(p => p.UnitPrice * p.UnitsInStock), 10:$#,##0.00}");
+            }
+        }
+
         static void Main(string[] args)
         {
             //FilterAndSort();
             //JoinCategoriesAndProducts();
-            GroupJoinCategoriesAndProducts();
+            //GroupJoinCategoriesAndProducts();
+            AggregateProducts();
         }
     }
 }
