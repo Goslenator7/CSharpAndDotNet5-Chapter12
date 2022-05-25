@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.exe
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.deps.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.runtimeconfig.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\bin\Debug\net5.0\ref\LinqInParallel.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\ref\LinqInParallel.dll
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.pdb
+C:\Users\Ryan\Documents\Coding\C#AndDotNet5 Mk2\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.genruntimeconfig.cache
